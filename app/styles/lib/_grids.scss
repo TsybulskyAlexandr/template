@@ -1,0 +1,9 @@
+@import "susy";
+
+$susy: (
+	columns: 12,
+	container: 960px,
+	debug: (image: show),
+	global-box-sizing: border-box,
+	gutters: 20px/60px
+	);
