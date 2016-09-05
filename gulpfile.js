@@ -52,7 +52,7 @@ gulp.task('imagemin', function() {
         .pipe(connect.reload());
 });
 
-gulp.task('coppyfonts', function () {
+gulp.task('copyFonts', function () {
     gulp.src('app/fonts/**/*')
     .pipe(gulp.dest('public/fonts'))
     .pipe(connect.reload());

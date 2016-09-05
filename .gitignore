@@ -1,4 +1,8 @@
+/.git/**
+/.sass-cache/**
+/app/fonts/**
+/app/img/**
 /node_modules/**
 /psd/**
-/.sass-cache/**
-/public/**
+.gitignore
+README.md
