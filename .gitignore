@@ -1,7 +1,6 @@
 /.git/**
 /.sass-cache/**
 /app/fonts/**
-/app/img/**
 /node_modules/**
 /psd/**
 .gitignore
